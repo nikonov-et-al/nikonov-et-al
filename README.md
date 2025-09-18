@@ -22,8 +22,7 @@ I am passionate about **aviation** (drones, R/C planes), **microcontrollers**, a
 ### 1️⃣ Real-Time Human Pose Estimation for Robotics Perception  
 - **Goal:** Enable real-time human posture tracking for real-time feedback in fitness exercises.  
 - **Approach:** Monocular camera pipeline using **MediaPipe** and deep learning, tested in real-world scenarios.  
-- **Outcome:** Deployed in a commercial fitness application; adaptable to warehouse safety and ergonomic monitoring.
-
+- **Outcome:** Developing a commercial fitness application.
 
 ### 2️⃣ Bayesian Imaging of Scientific Data  
 - **Goal:** Extract high-quality 3D reconstructions from large, noisy multi-spectral datasets.  
