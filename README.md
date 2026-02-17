@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aleksei Nikonov
 
-I’m a postdoctoral researcher with over 7 years of experience in astrophysics and computational imaging research. I have applied **computer vision**, **machine learning**, and **scientific imaging** techniques to solve large-scale data analysis problems, and I am now eager to bring this expertise to real-world **robotics and data science** challenges.  
+I’m a postdoctoral researcher with over 7 years of experience in astrophysics and computational imaging research. I have applied **computer vision**, **machine learning**, and **scientific imaging** techniques to solve large-scale data analysis problems, and I am now eager to bring this expertise to real-world **data science** challenges.  
 
 I am passionate about **aviation** (drones, R/C planes), **microcontrollers**, and **space science**. My work spans from **Bayesian imaging of astronomical data** to **real-time human pose estimation** — and I am particularly interested in solving problems involving **3D scene understanding**, **object manipulation in cluttered environments**, and **robust perception pipelines**.
 
@@ -10,7 +10,7 @@ I am passionate about **aviation** (drones, R/C planes), **microcontrollers**, a
 ---
 
 ## 🔬 Research & Technical Interests
-- **Computer Vision for Robotics** – 3D object detection, pose estimation, segmentation, pattern recognition  
+- **Computer Vision** – 3D object detection, pose estimation, segmentation, pattern recognition  
 - **Deep Learning** – PyTorch
 - **Bayesian & Statistical Modeling** – inference from noisy and incomplete data of the Fourier domain in the Radio Interferometry experiments.
 - **VLBI observations of AGN relativistic jets** - VLBI is an inverse problem technique which allows achieving unprecedented resolution, for example, studying the areas in the vicinity of supermassive black holes to understand the formation of apparent superluminal plasma outflows in the active galaxy nuclei. 
