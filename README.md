@@ -48,8 +48,8 @@ Selected examples:
 
 ---
 
-## 🎯 Goals for 2025-2026
-- Apply state-of-the-art computer vision and robotic manipulation techniques to real-world challenges.  
-- Contribute open-source projects in 3D perception and robot motion planning.  
+## 🎯 Goals for 2026
+- Apply state-of-the-art computer vision techniques to real-world challenges.  
+- Contribute open-source projects in 3D perception.  
 
 ---
