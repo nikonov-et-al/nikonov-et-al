@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aleksei Nikonov
 
-### Data Scientist · AI/ML Engineer · Computer Vision Engineer · Applied Sciententist and AI Engineer** with a PhD in Astrophysics and more than seven years of experience in scientific computing, data analysis, computational imaging, and software development.
+### Data Scientist · AI/ML Engineer · Computer Vision Engineer · Applied Sciententist and AI Engineer with a PhD in Astrophysics and more than seven years of experience in scientific computing, data analysis, computational imaging, and software development.
 
 I build **Python-based data and AI solutions** that turn complex, noisy data into reliable models, applications, and decision-support tools. My experience ranges from Bayesian reconstruction of astronomical observations to real-time computer-vision systems and LLM-enabled productivity software.
 
